@@ -1,4 +1,4 @@
-A simple Java program for keeping track of all of your regular maintenance activities! Feed the program the date you last performed an action (such as changing an HVAC filter), give it the length of time between maintenance sessions (90 days for the above example), and it will tell you when it is time to do it again! The program will reset upon the passing of the due date for every maintenance item, meaning you only have to enter the dates and intervals once, and the prorgam will work forever.
+A simple Java program for keeping track of all of your regular maintenance activities! Feed the program the date you last performed an action (such as changing an HVAC filter), give it the length of time between maintenance sessions (90 days for the above example), and it will tell you when it is time to do it again! The program will reset upon the passing of the due date for every maintenance item, meaning you only have to enter the dates and intervals once, and the program will work forever.
 
 NOTES:
 
